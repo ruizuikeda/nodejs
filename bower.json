@@ -2,6 +2,7 @@
     "name": "nodejs",
     "dependencies": {
         "bootstrap" : "x.x.x",
-        "angularjs" : "1.x.x"
+        "angularjs" : "1.x.x",
+        "fontawesome" : "x.x.x"
     }
 }
