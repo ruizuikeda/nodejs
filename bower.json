@@ -1,6 +1,7 @@
 {
     "name": "nodejs",
     "dependencies": {
-        "bootstrap" : "x.x.x"
+        "bootstrap" : "x.x.x",
+        "angularjs" : "1.x.x"
     }
 }
